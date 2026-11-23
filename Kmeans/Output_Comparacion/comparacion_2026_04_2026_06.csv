@@ -1,0 +1,461 @@
+﻿celda,grupo_a,grupo_b,comparacion
+11_14,2,1,Cambio de grupo
+11_15,2,2,Persistente
+12_14,2,2,Persistente
+13_14,2,2,Persistente
+16_18,3,2,Cambio de grupo
+17_19,2,2,Persistente
+17_26,2,1,Cambio de grupo
+17_37,3,1,Cambio de grupo
+18_11,1,2,Cambio de grupo
+18_12,1,2,Cambio de grupo
+18_22,2,2,Persistente
+18_37,2,2,Persistente
+19_10,1,1,Persistente
+19_13,1,2,Cambio de grupo
+19_14,1,2,Cambio de grupo
+19_23,2,2,Persistente
+19_36,3,2,Cambio de grupo
+19_37,3,2,Cambio de grupo
+20_10,1,2,Cambio de grupo
+20_15,1,4,Cambio de grupo
+20_16,1,1,Persistente
+20_24,2,2,Persistente
+20_36,3,1,Cambio de grupo
+20_57,2,1,Cambio de grupo
+20_58,2,1,Cambio de grupo
+20_59,2,1,Cambio de grupo
+20_67,2,1,Cambio de grupo
+20_68,2,1,Cambio de grupo
+20_69,2,1,Cambio de grupo
+20_70,2,1,Cambio de grupo
+20_71,2,1,Cambio de grupo
+21_18,1,1,Persistente
+21_25,2,2,Persistente
+21_57,2,1,Cambio de grupo
+21_62,2,1,Cambio de grupo
+21_64,2,1,Cambio de grupo
+21_65,2,1,Cambio de grupo
+21_66,2,1,Cambio de grupo
+22_25,2,1,Cambio de grupo
+22_26,2,1,Cambio de grupo
+22_58,1,1,Persistente
+22_60,1,1,Persistente
+22_61,2,1,Cambio de grupo
+22_62,2,2,Persistente
+23_21,1,1,Persistente
+23_26,2,1,Cambio de grupo
+23_27,2,1,Cambio de grupo
+23_36,2,1,Cambio de grupo
+23_45,2,2,Persistente
+23_46,2,1,Cambio de grupo
+23_56,3,1,Cambio de grupo
+23_61,2,1,Cambio de grupo
+24_21,1,1,Persistente
+24_22,1,1,Persistente
+24_27,2,3,Cambio de grupo
+24_30,1,1,Persistente
+24_37,2,1,Cambio de grupo
+24_47,2,2,Persistente
+24_56,3,1,Cambio de grupo
+24_58,2,1,Cambio de grupo
+24_8,1,1,Persistente
+25_28,2,1,Cambio de grupo
+25_30,2,1,Cambio de grupo
+25_31,1,1,Persistente
+25_48,3,2,Cambio de grupo
+25_58,2,1,Cambio de grupo
+25_8,1,1,Persistente
+26_23,1,1,Persistente
+26_24,1,1,Persistente
+26_38,2,1,Cambio de grupo
+26_39,2,1,Cambio de grupo
+26_41,4,1,Cambio de grupo
+26_53,2,2,Persistente
+26_56,2,1,Cambio de grupo
+26_9,1,1,Persistente
+27_10,1,1,Persistente
+27_11,1,1,Persistente
+27_12,1,2,Cambio de grupo
+27_13,1,2,Cambio de grupo
+27_14,1,1,Persistente
+27_15,1,1,Persistente
+27_16,1,2,Cambio de grupo
+27_17,1,1,Persistente
+27_18,1,2,Cambio de grupo
+27_19,2,1,Cambio de grupo
+27_24,1,1,Persistente
+27_25,1,1,Persistente
+27_26,4,1,Cambio de grupo
+27_28,2,1,Cambio de grupo
+27_33,2,1,Cambio de grupo
+27_42,1,1,Persistente
+27_54,2,1,Cambio de grupo
+27_55,2,1,Cambio de grupo
+27_56,2,1,Cambio de grupo
+27_57,2,1,Cambio de grupo
+27_9,1,1,Persistente
+28_20,1,2,Cambio de grupo
+28_21,1,2,Cambio de grupo
+28_22,1,2,Cambio de grupo
+28_26,1,1,Persistente
+28_27,1,1,Persistente
+28_28,1,1,Persistente
+28_29,2,1,Cambio de grupo
+28_33,2,1,Cambio de grupo
+28_34,2,1,Cambio de grupo
+28_53,1,1,Persistente
+28_54,2,1,Cambio de grupo
+28_57,2,1,Cambio de grupo
+28_62,2,1,Cambio de grupo
+29_23,1,2,Cambio de grupo
+29_24,1,2,Cambio de grupo
+29_28,1,1,Persistente
+29_29,1,1,Persistente
+29_30,3,1,Cambio de grupo
+29_34,2,1,Cambio de grupo
+29_35,2,1,Cambio de grupo
+29_50,1,1,Persistente
+29_51,1,1,Persistente
+29_52,2,1,Cambio de grupo
+29_58,2,1,Cambio de grupo
+30_24,1,3,Cambio de grupo
+30_25,1,2,Cambio de grupo
+30_30,3,1,Cambio de grupo
+30_31,3,3,Persistente
+30_35,2,1,Cambio de grupo
+30_36,2,1,Cambio de grupo
+30_48,1,1,Persistente
+30_49,1,1,Persistente
+30_58,1,1,Persistente
+30_59,1,1,Persistente
+31_25,1,2,Cambio de grupo
+31_34,2,1,Cambio de grupo
+31_37,4,1,Cambio de grupo
+31_38,4,1,Cambio de grupo
+31_39,3,1,Cambio de grupo
+31_46,1,1,Persistente
+31_47,1,1,Persistente
+31_59,1,1,Persistente
+32_26,1,2,Cambio de grupo
+32_32,1,3,Cambio de grupo
+32_35,2,1,Cambio de grupo
+32_39,1,1,Persistente
+32_40,4,3,Cambio de grupo
+32_44,1,1,Persistente
+33_26,1,1,Persistente
+33_33,1,1,Persistente
+33_36,3,1,Cambio de grupo
+33_41,4,1,Cambio de grupo
+33_48,2,1,Cambio de grupo
+34_26,1,1,Persistente
+34_27,1,2,Cambio de grupo
+34_33,1,1,Persistente
+34_36,2,3,Cambio de grupo
+34_37,4,3,Cambio de grupo
+34_40,1,1,Persistente
+34_41,1,1,Persistente
+34_42,1,1,Persistente
+34_48,1,1,Persistente
+34_49,1,1,Persistente
+35_27,1,1,Persistente
+35_33,1,1,Persistente
+35_34,1,1,Persistente
+35_37,4,3,Cambio de grupo
+35_38,1,1,Persistente
+35_39,2,1,Cambio de grupo
+35_40,2,1,Cambio de grupo
+35_50,1,1,Persistente
+36_27,1,1,Persistente
+36_28,1,2,Cambio de grupo
+36_34,4,1,Cambio de grupo
+36_35,1,1,Persistente
+36_39,1,1,Persistente
+36_40,1,3,Cambio de grupo
+36_45,4,3,Cambio de grupo
+36_46,4,3,Cambio de grupo
+36_51,1,1,Persistente
+37_29,1,3,Cambio de grupo
+37_34,1,1,Persistente
+37_35,2,1,Cambio de grupo
+37_40,1,1,Persistente
+37_41,2,3,Cambio de grupo
+37_46,4,3,Cambio de grupo
+37_52,2,1,Cambio de grupo
+38_30,1,1,Persistente
+38_33,2,1,Cambio de grupo
+38_35,1,1,Persistente
+38_42,3,3,Persistente
+38_43,3,3,Persistente
+38_53,2,1,Cambio de grupo
+39_25,1,1,Persistente
+39_26,1,1,Persistente
+39_27,1,3,Cambio de grupo
+39_28,1,3,Cambio de grupo
+39_30,1,1,Persistente
+39_36,1,1,Persistente
+39_43,3,3,Persistente
+39_44,3,3,Persistente
+39_55,2,1,Cambio de grupo
+40_25,1,1,Persistente
+40_28,1,1,Persistente
+40_31,1,1,Persistente
+40_36,1,1,Persistente
+40_37,1,1,Persistente
+40_44,2,3,Cambio de grupo
+40_45,3,3,Persistente
+40_49,2,1,Cambio de grupo
+40_50,2,1,Cambio de grupo
+40_54,2,1,Cambio de grupo
+41_16,3,2,Cambio de grupo
+41_20,1,3,Cambio de grupo
+41_21,1,1,Persistente
+41_22,1,3,Cambio de grupo
+41_26,1,1,Persistente
+41_37,1,1,Persistente
+41_38,1,1,Persistente
+41_46,2,1,Cambio de grupo
+41_50,2,1,Cambio de grupo
+41_51,2,1,Cambio de grupo
+41_52,2,1,Cambio de grupo
+41_53,2,1,Cambio de grupo
+42_15,1,1,Persistente
+42_16,1,1,Persistente
+42_20,1,1,Persistente
+42_26,1,1,Persistente
+42_27,1,1,Persistente
+42_29,1,1,Persistente
+42_35,1,1,Persistente
+42_36,1,1,Persistente
+42_39,1,1,Persistente
+42_47,2,1,Cambio de grupo
+42_7,1,2,Cambio de grupo
+43_11,1,1,Persistente
+43_20,1,1,Persistente
+43_21,1,1,Persistente
+43_23,1,1,Persistente
+43_27,1,1,Persistente
+43_3,1,1,Persistente
+43_36,1,1,Persistente
+43_37,1,3,Cambio de grupo
+43_40,3,1,Cambio de grupo
+43_48,2,1,Cambio de grupo
+43_5,1,2,Cambio de grupo
+43_8,1,2,Cambio de grupo
+44_11,1,1,Persistente
+44_16,1,3,Cambio de grupo
+44_17,1,1,Persistente
+44_21,1,1,Persistente
+44_23,1,1,Persistente
+44_27,1,1,Persistente
+44_3,1,1,Persistente
+44_31,1,1,Persistente
+44_32,1,1,Persistente
+44_38,1,2,Cambio de grupo
+44_40,1,1,Persistente
+44_41,2,1,Cambio de grupo
+44_6,1,2,Cambio de grupo
+44_8,1,1,Persistente
+45_11,1,1,Persistente
+45_12,1,1,Persistente
+45_17,1,1,Persistente
+45_20,1,1,Persistente
+45_22,1,1,Persistente
+45_23,1,1,Persistente
+45_25,1,1,Persistente
+45_28,1,1,Persistente
+45_29,1,1,Persistente
+45_3,1,2,Cambio de grupo
+45_34,3,1,Cambio de grupo
+45_39,3,3,Persistente
+45_4,1,2,Cambio de grupo
+45_41,2,3,Cambio de grupo
+45_48,2,1,Cambio de grupo
+45_6,1,1,Persistente
+45_7,1,3,Cambio de grupo
+45_9,1,1,Persistente
+46_10,1,3,Cambio de grupo
+46_12,1,1,Persistente
+46_18,1,1,Persistente
+46_20,1,1,Persistente
+46_21,1,1,Persistente
+46_23,1,1,Persistente
+46_24,1,1,Persistente
+46_25,1,1,Persistente
+46_29,1,1,Persistente
+46_34,1,2,Cambio de grupo
+46_35,1,2,Cambio de grupo
+46_39,1,3,Cambio de grupo
+46_4,1,1,Persistente
+46_40,1,3,Cambio de grupo
+46_49,2,1,Cambio de grupo
+46_5,1,1,Persistente
+46_7,1,1,Persistente
+46_8,1,1,Persistente
+47_10,1,1,Persistente
+47_13,1,1,Persistente
+47_18,1,1,Persistente
+47_2,1,2,Cambio de grupo
+47_21,1,1,Persistente
+47_22,1,1,Persistente
+47_24,1,1,Persistente
+47_26,1,1,Persistente
+47_27,1,1,Persistente
+47_28,3,3,Persistente
+47_29,2,2,Persistente
+47_3,1,2,Cambio de grupo
+47_30,1,2,Cambio de grupo
+47_4,1,1,Persistente
+47_40,1,3,Cambio de grupo
+47_48,2,2,Persistente
+47_49,2,3,Cambio de grupo
+47_6,1,1,Persistente
+47_8,1,1,Persistente
+48_11,1,1,Persistente
+48_14,1,1,Persistente
+48_17,1,1,Persistente
+48_19,1,1,Persistente
+48_2,1,2,Cambio de grupo
+48_22,1,1,Persistente
+48_23,1,1,Persistente
+48_24,1,3,Cambio de grupo
+48_41,1,2,Cambio de grupo
+48_48,2,2,Persistente
+48_5,1,1,Persistente
+48_6,1,1,Persistente
+48_9,1,1,Persistente
+49_10,1,1,Persistente
+49_11,1,1,Persistente
+49_12,1,1,Persistente
+49_17,1,1,Persistente
+49_19,1,1,Persistente
+49_23,4,1,Cambio de grupo
+49_24,1,2,Cambio de grupo
+49_3,1,2,Cambio de grupo
+49_41,1,2,Cambio de grupo
+49_47,2,3,Cambio de grupo
+49_48,2,3,Cambio de grupo
+49_5,1,1,Persistente
+49_7,1,1,Persistente
+49_9,1,1,Persistente
+50_10,1,1,Persistente
+50_11,1,1,Persistente
+50_12,1,1,Persistente
+50_13,1,1,Persistente
+50_18,1,1,Persistente
+50_3,1,2,Cambio de grupo
+50_4,1,2,Cambio de grupo
+50_41,1,2,Cambio de grupo
+50_42,1,2,Cambio de grupo
+50_6,1,1,Persistente
+50_8,1,1,Persistente
+51_11,1,1,Persistente
+51_13,1,1,Persistente
+51_18,1,1,Persistente
+51_19,1,3,Cambio de grupo
+51_20,1,3,Cambio de grupo
+51_4,1,1,Persistente
+51_42,1,2,Cambio de grupo
+51_6,1,1,Persistente
+51_7,1,1,Persistente
+52_12,1,1,Persistente
+52_14,1,1,Persistente
+52_4,1,1,Persistente
+52_5,1,1,Persistente
+52_7,1,1,Persistente
+52_8,1,1,Persistente
+53_10,1,1,Persistente
+53_12,1,1,Persistente
+53_13,1,1,Persistente
+53_14,1,1,Persistente
+53_15,1,1,Persistente
+53_17,1,1,Persistente
+53_5,1,1,Persistente
+53_8,1,1,Persistente
+54_1,1,2,Cambio de grupo
+54_11,1,1,Persistente
+54_13,1,1,Persistente
+54_14,1,1,Persistente
+54_15,1,1,Persistente
+54_16,1,3,Cambio de grupo
+54_17,1,1,Persistente
+54_2,1,1,Persistente
+54_6,1,1,Persistente
+54_8,1,1,Persistente
+54_9,1,1,Persistente
+55_1,1,1,Persistente
+55_12,1,1,Persistente
+55_14,1,1,Persistente
+55_15,1,3,Cambio de grupo
+55_16,1,1,Persistente
+55_2,1,1,Persistente
+55_6,1,1,Persistente
+55_7,1,1,Persistente
+55_9,1,1,Persistente
+56_0,1,3,Cambio de grupo
+56_1,1,1,Persistente
+56_12,1,1,Persistente
+56_13,1,3,Cambio de grupo
+56_14,1,1,Persistente
+56_15,1,1,Persistente
+56_16,1,1,Persistente
+56_17,1,1,Persistente
+56_2,1,1,Persistente
+56_3,1,1,Persistente
+56_4,1,1,Persistente
+56_7,1,1,Persistente
+57_0,1,2,Cambio de grupo
+57_1,1,1,Persistente
+57_10,1,1,Persistente
+57_13,1,1,Persistente
+57_2,1,1,Persistente
+57_3,1,1,Persistente
+57_4,1,1,Persistente
+57_5,1,1,Persistente
+57_8,1,1,Persistente
+58_0,1,1,Persistente
+58_1,1,1,Persistente
+58_11,1,1,Persistente
+58_12,1,1,Persistente
+58_14,1,1,Persistente
+58_17,1,1,Persistente
+58_3,1,1,Persistente
+58_4,1,1,Persistente
+58_5,1,1,Persistente
+58_8,1,1,Persistente
+58_9,1,3,Cambio de grupo
+59_0,1,1,Persistente
+59_1,1,1,Persistente
+59_12,1,1,Persistente
+59_15,1,3,Cambio de grupo
+59_4,1,1,Persistente
+59_5,1,1,Persistente
+59_6,1,1,Persistente
+59_9,1,1,Persistente
+5_18,2,1,Cambio de grupo
+60_0,1,1,Persistente
+60_1,1,1,Persistente
+60_10,1,1,Persistente
+60_12,1,1,Persistente
+60_13,1,1,Persistente
+60_15,1,3,Cambio de grupo
+60_2,1,1,Persistente
+60_5,1,1,Persistente
+60_6,1,1,Persistente
+60_7,1,3,Cambio de grupo
+60_9,1,1,Persistente
+61_1,1,1,Persistente
+61_10,1,1,Persistente
+61_16,1,2,Cambio de grupo
+61_2,1,1,Persistente
+61_3,1,1,Persistente
+61_4,1,1,Persistente
+61_5,1,1,Persistente
+61_6,1,1,Persistente
+62_10,1,1,Persistente
+62_11,1,1,Persistente
+62_5,1,1,Persistente
+63_11,1,3,Cambio de grupo
+6_18,2,1,Cambio de grupo
+7_17,2,1,Cambio de grupo
+7_18,2,1,Cambio de grupo
